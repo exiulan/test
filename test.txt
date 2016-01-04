@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 hello 
-add some local data
+add some local
+some remote data
+>>>>>>> e3ebeb7b2e58283e4776c04ebdc570e73b72b843
